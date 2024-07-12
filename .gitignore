@@ -1,0 +1,9 @@
+#Ignoring jupyternotebook system files
+
+.ipynb_checkpoints/
+
+
+#Ignore DS_Store
+
+.DS_Store
+
