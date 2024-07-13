@@ -1,16 +1,3 @@
-#Ignoring jupyternotebook system files
-
-.ipynb_checkpoints/
-
-
-#Ignore DS_Store
-
-.DS_Store
-
-# idea files
-
-*.idea
-
 # Default ignored files
 /shelf/
 /workspace.xml
@@ -19,4 +6,3 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
-
